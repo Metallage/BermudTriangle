@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BermudTriangle", "BermudTriangle\BermudTriangle.csproj", "{C1936D6D-868C-4F44-9121-EC06D1D1A588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLogik", "MathLogik\MathLogik.csproj", "{05A5FEB5-24FD-4A47-9061-0133CDC901AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1936D6D-868C-4F44-9121-EC06D1D1A588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1936D6D-868C-4F44-9121-EC06D1D1A588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1936D6D-868C-4F44-9121-EC06D1D1A588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1936D6D-868C-4F44-9121-EC06D1D1A588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A5FEB5-24FD-4A47-9061-0133CDC901AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A5FEB5-24FD-4A47-9061-0133CDC901AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A5FEB5-24FD-4A47-9061-0133CDC901AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A5FEB5-24FD-4A47-9061-0133CDC901AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FA21CD9-644E-46B9-8226-AC9817E2FDE4}
+	EndGlobalSection
+EndGlobal
