@@ -8,6 +8,7 @@ namespace MathLogik
 {
     public class BermudTriangleLogic
     {
+        //test upd
         private int[] simField = new int[2];
         private int[,] triangleField = new int[3,2];
         private static Random xRandom;
